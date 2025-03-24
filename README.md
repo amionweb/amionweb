@@ -23,7 +23,6 @@ I am a UI | UX Designer |UI | UX Designer, obsessed with the idea of constantly 
 - 📫 How to reach me rajdhokai0928@gmail.com <br/>
 
 #
-## Connect with me 🤝 :
 <br>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=amionweb&show_icons=true" alt="amionweb" width="50%"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amionweb&layout=compact" alt="amionweb" align="right" width="40%"/> </p>
