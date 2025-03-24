@@ -1,33 +1,47 @@
-<!---
-amionweb/amionweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hey there. I am [Amionweb](https://github.com/amionweb) 👋
+# Hey there! I'm [Amionweb](https://github.com/amionweb) 👋
 
-<!--<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=amionweb&color=blue" alt="amionweb" /> 
-</p>--> 
+<!--<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=amionweb&color=blue" alt="amionweb" />
+</p>-->
 
-I am a UI | UX Designer |UI | UX Designer, obsessed with the idea of constantly improving myself.
-<br>
- #
+I am a passionate **UI/UX Designer** dedicated to crafting seamless and engaging user experiences. With a strong focus on design thinking, I strive to create visually appealing and intuitive digital products.
+
+---
+
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on UI | UX Designing <br/>
+### 🚀 About Me
+- 🎨 I specialize in **UI/UX design, wireframing, and prototyping**
+- 🔭 Currently working on **improving user experiences** across web and mobile applications
+- 🌱 Exploring **design systems, accessibility, and front-end interactions**
+- 🤝 Looking to collaborate on **design-focused projects and React UI development**
+- 💡 Passionate about **creating dynamic and engaging web applications**
+- 💬 Ask me anything about **design, usability, and user experience trends**
+- 📩 Reach me at **rajdhokai0928@gmail.com**
 
-- 📈 Highly passionate about creating Dynamic Web Applications 🕸 <br/>
+---
 
-- 🤓 I’m looking to collaborate with React <img height="15px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> projects. <br/>
+### 🛠 Tools & Technologies
 
-- 💬 Ask me about anything, I am happy to help 😄 <br/>
-- 📫 How to reach me rajdhokai0928@gmail.com <br/>
+- **Design:** Figma, Adobe XD, Sketch, Photoshop, Illustrator
+- **Prototyping & Wireframing:** Figma, Balsamiq, InVision
+- **Front-end Development:** HTML, CSS, JavaScript, React.js
+- **Collaboration:** Notion, Miro, Trello, Jira
+- **Other Skills:** User Research, Design Systems, Accessibility (WCAG), UX Writing
 
-#
-<br>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=amionweb&show_icons=true" alt="amionweb" width="50%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amionweb&layout=compact" alt="amionweb" align="right" width="40%"/> </p>
+---
 
+### 📊 GitHub Stats
 
-<p align="center">
-<h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/amionweb?tab=repositories"> repositories!</a></h6>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=amionweb&show_icons=true&theme=radical" alt="amionweb" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amionweb&layout=compact&theme=radical" alt="amionweb" align="right" width="40%"/>
 </p>
+
+---
+
+### ❤️ Show Some Love
+<h6 align="center">If you like my work, consider starring some of my <a href="https://github.com/amionweb?tab=repositories">repositories</a>! ⭐</h6>
+
+---
+
