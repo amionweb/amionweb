@@ -17,7 +17,7 @@ I am a passionate **UI/UX Designer** dedicated to crafting seamless and engaging
 - 🤝 Looking to collaborate on **design-focused projects and React UI development**
 - 💡 Passionate about **creating dynamic and engaging web applications**
 - 💬 Ask me anything about **design, usability, and user experience trends**
-- 📩 Reach me at **rajdhokai0928@gmail.com**
+- 📩 Reach me at **amipujara163@gmail.com**
 
 ---
 
